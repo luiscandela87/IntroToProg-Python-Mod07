@@ -1,3 +1,11 @@
+# ------------------------------------------------------------------------------------------ #
+# Title: Assignment07
+# Desc: This assignment demonstrates using data classes with structured error handling.
+# Change Log: (Who, When, What)
+#   RRoot,1/1/2030,Created Script
+#   Luis Candela, 12/01/2024, Edited Script
+# ------------------------------------------------------------------------------------------ #
+
 import json  # Importing json module to work with JSON data files
 
 # Define the Data Constants
